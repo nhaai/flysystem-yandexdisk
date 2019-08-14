@@ -1,9 +1,9 @@
 {
-	"name": "arhitector/yandex-disk-flysystem",
+	"name": "nhaai/flysystem-yandexdisk",
 	"description": "The flysystem adapter for yandex disk rest api.",
 	"keywords": [
 		"yandex disk",
-		"яндекс диск",
+		"nhaai",
 		"filesystem",
 		"filesystems",
 		"file systems",
@@ -19,7 +19,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"Arhitector\\Yandex\\Disk\\Adapter\\": "src/"
+			"Nhaai\\Yandex\\Disk\\Adapter\\": "src/"
 		}
 	},
 	"require": {
